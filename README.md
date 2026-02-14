@@ -1,19 +1,16 @@
-# Flutter Music Player App 🎵
+# muzik_kutusu
 
-An offline music player mobile application developed using Flutter.
+Offline Music Box App
 
-## Features
-- Offline music playback
-- Song listing
-- Play / pause / skip controls
-- User-friendly interface
+## Getting Started
 
-## Technologies
-- Flutter (Dart)
-- Local storage
+This project is a starting point for a Flutter application.
 
-## Screenshots
-(Add screenshots here)
+A few resources to get you started if this is your first Flutter project:
 
-## Status
-Completed (2025)
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
